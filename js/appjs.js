@@ -64,7 +64,7 @@ $(document).ready(function() {
 
     // Hover effect on portfolio images
     $(".portfolio img").hover(function() {
-        $(".col-md-3 img").addClass("image");
+        $(".col-3 img").addClass("image");
         $(".project-name").show();
     });
 

@@ -91,7 +91,7 @@
     
     /* image overlay on hover */
     
-    .box {
+    .col-3 {
     position: relative;
     width: 50%;
     }
@@ -120,11 +120,11 @@
     border-radius: 3px;
     }
     
-    .box:hover .image {
+    .col-md-3:hover .image {
     opacity: 0.3;
     }
     
-    .box:hover .middle {
+    .col-md-3:hover .middle {
     opacity: 1;
     }
     
